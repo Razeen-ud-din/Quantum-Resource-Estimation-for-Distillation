@@ -5,7 +5,7 @@ This reporsitory is for the quantum resource estimation (QRE) for entanglement a
 ## Introduction 
 Welcome to the implementation of for the quantum resource estimation (QRE) for entanglement and nonlocality distillation!
 This project is the implementations of the research papers [Concentrating entanglement by local actions: Beyond mean values](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.63.022301) by Hoi-Kwong Lo and 
-Sandu Popescu and [Better Bell-inequality violation by collective measurements](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.73.052116)
+Sandu Popescu and [Better Bell-inequality violation by collective measurements](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.73.052116) by Yeong-Cherng Liang and Andrew C. Doherty.
 
 ## Installation
 
